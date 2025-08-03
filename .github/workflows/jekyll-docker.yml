@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Florian Lämmer – Lebenslauf</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      background: #f4f7f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      max-width: 960px;
+      margin: auto;
+      padding: 2rem;
+      background: white;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    .contact {
+      font-size: 0.95rem;
+    }
+    .contact p {
+      margin: 0.2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Florian Lämmer</h1>
+    <p>Wirtschaftsingenieur für Qualität & Lieferantenmanagement</p>
+    <div class="contact">
+      <p>Lehrenweg 19, 88709 Meersburg</p>
+      <p>📞 +49 (0)174 3088789</p>
+      <p>📧 <a href="mailto:florian.laemmer@icloud.com" style="color: white; text-decoration: underline;">florian.laemmer@icloud.com</a></p>
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>Profil</h2>
+      <p>Erfahrener Wirtschaftsingenieur mit Schwerpunkt auf Qualitäts- und Lieferantenmanagement. Über zehn Jahre Erfahrung in der Automobil- und Elektronikindustrie, fundierte Kenntnisse im internationalen Projektumfeld sowie in der strategischen Lieferantenentwicklung. Ausgeprägte analytische Fähigkeiten, systematisches Vorgehen und hohe Sozialkompetenz in der Führung interdisziplinärer Teams. Zielorientierter Umsetzer mit Blick für Qualität, Effizienz und nachhaltige Prozesse.</p>
+    </section>
+    <section>
+      <h2>Berufserfahrung</h2>
+      <ul>
+        <li><strong>Director Procurement Quality Management</strong>, ifm electronic gmbh (seit 08/2020)</li>
+        <li><strong>Teamleiter Lieferantenentwicklung</strong>, ifm electronic gmbh (06/2019–07/2020)</li>
+        <li><strong>Qualitätsingenieur Elektronik</strong>, ifm syntron gmbh (08/2012–05/2019)</li>
+        <li><strong>Diplomarbeit</strong>, ifm automotive gmbh (01/2012–06/2012)</li>
+        <li><strong>Praxissemester Qualitätsprozesse</strong>, Porsche AG (03/2011–08/2011)</li>
+        <li><strong>Praxissemester</strong>, Sontheim Industrie Elektronik GmbH (09/2008–02/2009)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Ausbildung</h2>
+      <ul>
+        <li><strong>Diplom-Wirtschaftsingenieur</strong>, Hochschule Kempten (2007–2012)</li>
+        <li><strong>Allgemeine Hochschulreife</strong>, Constantin-Vanotti-Schule Überlingen (2003–2006)</li>
+        <li><strong>Mittlere Reife & Hauptschule</strong>, Meersburg (bis 2001)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Qualifikationen & IT</h2>
+      <ul>
+        <li>DGQ / EOQ Quality Manager, VDA 6.3, IATF 16949 Auditor</li>
+        <li>Projektmanagement Basiszertifikat</li>
+        <li>MS Office, SAP ERP, VBA, SharePoint</li>
+        <li>Englisch: gute Kenntnisse in Wort und Schrift</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Engagement & Interessen</h2>
+      <ul>
+        <li>Langjähriges Ehrenamt im Seniorenheim Meersburg</li>
+        <li>Fußball & Musikverein Meersburg</li>
+        <li>Hobbys: Sport, Lesen, Kochen</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
